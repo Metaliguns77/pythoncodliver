@@ -82,6 +82,7 @@ nav:
     - Examples:
         - examples/intro.ipynb
         - examples/KH_Shakibul_Islam_lab4.ipynb
+        - examples/KH_Shakibul_Islam_lab5.ipynb
         
     - API Reference:
           - pythoncodliver module: pythoncodliver.md
